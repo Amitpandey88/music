@@ -20,7 +20,7 @@ new Vue({
           name: "Agar tum saath ho",
           artist: "Alka Yagnik and Arijit Singh",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://drive.google.com/file/d/1Lr5ACFvrzOn1ExLYJnBj8Av0zV06fKIY/view?usp=drivesdk",
+          source: "https://github.com/Amitpandey88/music/raw/main/mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
