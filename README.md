@@ -1,8 +1,5 @@
 # music
 
-design by Voicu Apostol.
-design: https://dribbble.com/shots/3533847-Mini-Music-Player
-I can't find any open music api or mp3 api so i have to download all musics as mp3 file.
-You can fork on github: https://github.com/muhammederdem/mini-player
-
-Publish By Amit Pandey
+This is modified and redesign by Amit Pandey 
+This is fast music player without ads and fast music play you can download and customise
+This player
