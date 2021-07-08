@@ -21,15 +21,15 @@ new Vue({
           artist: "Alka Yagnik and Arijit Singh",
           cover: "https://github.com/Amitpandey88/music/raw/main/img/size_xxl.jpg",
           source: "https://github.com/Amitpandey88/music/raw/main/mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/watch?v=sK7riqg2mr4",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          name: "khairiyat",
+          artist: "Arijit Singh",
+          cover: "https://github.com/Amitpandey88/music/raw/main/img/2.jpg",
+          source: "https://github.com/Amitpandey88/music/raw/main/mp3/2.mp3",
+          url: "https://www.youtube.com/watch?v=9-AKLAfpjrI",
           favorited: true
         },
         {
