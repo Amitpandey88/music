@@ -1,5 +1,5 @@
 /*
-design by Voicu Apostol.
+design by Amit Pandey.
 design: http://webview.rf.gd/
 I can't find any open music api or mp3 api so i have to download all musics as mp3 file.
 You can fork on github: https://github.com/Amitpandey88/music
