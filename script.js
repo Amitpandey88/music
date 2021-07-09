@@ -21,7 +21,7 @@ new Vue({
           artist: "Alka Yagnik and Arijit Singh",
           cover: "https://github.com/Amitpandey88/music/raw/main/img/size_xxl.jpg",
           source: "https://github.com/Amitpandey88/music/raw/main/mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=sK7riqg2mr4",
+          url: "https://github.com/Amitpandey88/music/raw/main/mp3/1.mp3",
           favorited: false
         },
         {
@@ -29,7 +29,7 @@ new Vue({
           artist: "Arijit Singh",
           cover: "https://github.com/Amitpandey88/music/raw/main/img/2.jpg",
           source: "https://github.com/Amitpandey88/music/raw/main/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=9-AKLAfpjrI",
+          url: "https://github.com/Amitpandey88/music/raw/main/mp3/2.mp3",
           favorited: true
         },
         {
